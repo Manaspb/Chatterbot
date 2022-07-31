@@ -57,7 +57,7 @@ pairs = [
     ],
 ]
 def chat():
-    print("Hi! I am a chatbot created by Dikshant Buwa for your service")
+    print("Hi! I am a chatbot created by Manas Parab for your service")
     chat = Chat(pairs, reflections)
     chat.converse()
 #initiate the conversation
